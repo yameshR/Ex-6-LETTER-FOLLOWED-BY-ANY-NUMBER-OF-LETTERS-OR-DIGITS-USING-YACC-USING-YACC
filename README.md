@@ -1,7 +1,10 @@
 # Ex-6-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-
-<h/>NAME:Yamesh R<h/>
+```
+NAME:Yamesh R
+```
+```
 REGISTER NUMBER:212222220059
-
+```
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
